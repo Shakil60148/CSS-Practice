@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(48, 43, 37);
+    color: aliceblue;
+}
+
+#p5{
+    background-color: brown;
+}
+
+.odd{
+    background-color: rgb(189, 58, 10);
+}
+
+.even{
+    background-color: black;
+}

@@ -1,0 +1,13 @@
+#a ul{
+    background-color: rgb(110, 107, 107);
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+#b ul{
+    background-color: rgb(110, 107, 107);
+    list-style-position: outside;
+    color: white;
+    list-style-image: url(tick.png);
+}
+

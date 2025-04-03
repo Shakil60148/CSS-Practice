@@ -1,0 +1,20 @@
+h1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+
+#p1{
+    border: 5px solid hsl(280, 100%, 50%);
+    border-radius: 10px;
+}
+
+#p2{
+    border-bottom: 5px solid rgb(120, 5, 5);
+    border-top: 5px solid rgb(3, 79, 3);
+    border-left: 5px dotted rgb(245, 245, 0);
+    border-right: 5px dashed rgb(7, 7, 127);
+
+    border-radius: 5px;
+}
